@@ -1,0 +1,60 @@
+/* body{
+            background-image: url(assets/developer.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+        } */
+.maindiv {
+  width: 370px;
+  height: 440;
+  border: 1px solid gray;
+  border-radius: 12px;
+  margin: 20px auto;
+}
+
+#item-photo img {
+  width: 350px;
+  height: 250px;
+  border-radius: 20px;
+  padding: 8px;
+}
+
+#best-seller {
+  color: rgb(2, 81, 81);
+  font-weight: bolder;
+  background-color: rgb(216, 239, 242);
+  padding: 3px 5px 3px 5px;
+  border-radius: 8px;
+  border: 1px solid rgb(42, 137, 4);
+  position: absolute;
+  top: 40px;
+  left: 580px;
+}
+
+#must-try {
+  color: rgb(169, 15, 15);
+  font-weight: bolder;
+  background-color: rgb(203, 218, 219);
+  border-radius: 8px;
+  border: 1px solid rgb(36, 68, 36);
+  position: relative;
+  left: 280px;
+  bottom: 50px;
+  padding: 3px 5px 3px 5px;
+}
+
+#item-desc {
+  padding: 8px;
+}
+
+#item-desc h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  text-decoration: dashed;
+  font-family: "Courier New", Courier, monospace;
+}
+
+item-desc p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
